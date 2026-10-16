@@ -1,5 +1,6 @@
 <img width="256" height="192" alt="Golden Axe Warrior (USA, Europe, Brazil) (En)-6" src="https://github.com/user-attachments/assets/906f023b-fb4b-4e97-b768-0b6f0e300d14" />
-​
+​<br>
+
 I've put together some improvement hacks for Golden Axe Warrior (SMS), a pretty solid Zelda-like plagued by a few problems such as the grinding, sluggish early combat and some frustrating enemy encounters, and being pretty linear compared to Zelda 1 and 3. These new hacks aim to make the adventure smoother and a bit more open-ended without taking away the exploration and resource management that make the game rewarding to play. 
 In the QoL hack, enemy knockback is extended, a more complex drop rate system makes enemies drop useful items in a way that's adapted to your current situation, early game exploration is a tad easier, dungeon crystals send you straight outside after beating a boss, and the Magic Feather can now be used inside labyrinths. There are also a new shortcut at one point, a more flexible progression through the game, better magic recovery and recovery after death. Finally, I've added Mega Drive controller support with convenient item cycling!
 
